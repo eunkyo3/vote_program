@@ -8,4 +8,4 @@
 
 ![image](https://github.com/eunkyo3/vote_program/assets/112944851/b0c9be2a-e148-4cea-8b6f-29614f2c603d)
 
-![image](https://github.com/eunkyo3/vote_program/assets/112944851/fdbb24dc-21b8-4a12-b112-9c4671079ee7)
+![image](https://github.com/eunkyo3/vote_program/assets/112944851/ad8054fd-5fe1-4c7e-847a-a580814414fa)
